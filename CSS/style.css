@@ -41,7 +41,7 @@ ul{
     height: 700px;
 }
 .heroImg{
-    background-image: url("/Images/indy-7.jpg") !important;
+    background-image: url("/images/indy-7.jpg") !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
