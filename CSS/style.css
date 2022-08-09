@@ -1,15 +1,4 @@
-.heroImg{
-    background-image: url(./Images/indy-7.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    height: 600px;
-    width: 65%;
-    margin-right: 10%;
-    float: right;
-    margin-bottom: 56px;
-    padding: 25px;
-}
+
 h1, h2, h3, h4, h5, h6, li, p, button {
     font-family: 'Albert Sans', sans-serif;
 }
@@ -52,7 +41,7 @@ ul{
     height: 700px;
 }
 .heroImg{
-    background-image: url(./Images/indy-7.jpg);
+    background-image: url(/Images/indy-7.jpg) !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
